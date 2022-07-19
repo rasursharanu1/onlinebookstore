@@ -29,7 +29,7 @@
                 <sonar.host.url>
                     http://54.166.46.136:9000
                 </sonar.host.url>
-	 <sonar.token>sqa_8784201ca743dc00e5499db88be6a0cb9000394a</sonar.token>
+	 <sonar.login>sqa_8784201ca743dc00e5499db88be6a0cb9000394a</sonar.login>
 </properties>
 <dependencies>
   	
