@@ -56,13 +56,13 @@
    <distributionManagement>
         <repository>
           <id>nexus</id>
-          <name>OnlineBookStore Releases Nexus Repository</name>
-          <url>http://3.86.155.47:8081/repository/OnlineBookStore-Release/</url>
+          <name>Online-Releases</name>
+          <url>http://174.129.63.194:8081/repository/Online-Release//</url>
         </repository>
         <snapshotRepository>
           <id>nexus</id>
-          <name>OnlineBookStore Nexus Repository </name>
-           <url>http://3.86.155.47:8081/repository/OnlineBookStore-snapshot/</url>
+          <name>Online-snapshot</name>
+           <url>http://174.129.63.194:8081/repository/online-snapshot//</url>
         </snapshotRepository>
    </distributionManagement>
 </project>
