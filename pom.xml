@@ -24,13 +24,6 @@
       </plugin>
     </plugins>
   </build>
-	
- <properties>
-                <sonar.host.url>
-                    http://54.166.46.136:9000
-                </sonar.host.url>
-	 <sonar.login>squ_c775d85c16c8c7ab6ee612503b3558752e4e1a8f</sonar.login>
-</properties>
 <dependencies>
   	
   	<dependency>
